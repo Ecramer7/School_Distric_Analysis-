@@ -1,8 +1,8 @@
-# School_Distric_Analysis
+# School_District_Analysis
 ## Overview 
-The purpose of this analysis was to investigate possible discrpencies in the reading and math scores for Thomas High School's ninth graders. The school board notified Maria that there was potential acedemic honesty, 
+The purpose of this analysis is to investigate discrepancies in the reading and math scores for Thomas High School's ninth graders while keeping the rest of the data intact. 
 ## Analysis 
-The analysis starts by replacing the ninth-grade reading and math scores with "NaN" to combat the discrepencies then the school district analisis is repeated in order to see how all the districs are effected by the analysis. 
+The analysis starts by replacing the ninth grade reading and math scores with "NaN" to combat the discrepancies then the school district analysis is repeated in order to see how all the districts are effected by the analysis. 
 ## Results 
 ### Data
 * District Summary 
@@ -13,13 +13,13 @@ The analysis starts by replacing the ninth-grade reading and math scores with "N
 
 <img width="917" alt="image" src="https://user-images.githubusercontent.com/111031608/189582481-d7881859-7879-48c3-a354-43c039521470.png">
 
-#### How replacint the Thomas High Scool's ninth grade scores effects:  
+#### How replacing the Thomas High School’s ninth grade scores effects:  
 * The Other Schools
 High performing: 
 
 <img width="911" alt="image" src="https://user-images.githubusercontent.com/111031608/189582918-fa4dd065-e29e-4483-9eb6-a45c3cce2ac1.png">
 
-Low perfroming
+Low performing
 
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/111031608/189582996-ad9e5652-ad60-4e7d-87c1-987ac23399ac.png">
 
@@ -39,3 +39,4 @@ Low perfroming
 
 
 ## Summary 
+Replacing the math and reading scores of the ninth graders in Thomas High School hardly effected the rest of the data. the averages changed by less than 1% for all analyses. In conclusion, the data has remained intact and accurate while the dishonest test scores were filtered out.
